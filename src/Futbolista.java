@@ -1,4 +1,6 @@
-public class Futbolista extends Persona{
+package herencia1.src;
+
+public class Futbolista extends Persona {
     private String equipo;
     private String pocicion;
     private String camiseta;

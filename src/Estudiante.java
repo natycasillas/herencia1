@@ -1,3 +1,5 @@
+package herencia1.src;
+
 public class Estudiante extends Persona {
     private int codigo;
     private String correo;

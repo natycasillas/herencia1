@@ -1,3 +1,5 @@
+package herencia1.src;
+
 public class Empleado_publico extends Persona {
 
     private String puesto;

@@ -1,3 +1,5 @@
+package herencia1.src;
+
 import java.sql.SQLOutput;
 
 public class menu {

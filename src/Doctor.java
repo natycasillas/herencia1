@@ -1,4 +1,6 @@
-public class Doctor extends Persona{
+package herencia1.src;
+
+public class Doctor extends Persona {
 
     private String especialidad;
     private int codigo;

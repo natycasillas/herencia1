@@ -1,3 +1,5 @@
+package herencia1.src;
+
 public class Persona {
 
    private int cl;
